@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gajendar01Shekhawat
+- 👋 Hi, I’m @Gajendar01Singh
 - 👀 I’m interested in ... cybersecurity
 - 🌱 I’m currently learning ... ethical hacking
 - 💞️ I’m looking to collaborate on ... python projects
